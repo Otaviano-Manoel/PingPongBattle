@@ -1,0 +1,68 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]istPublic/
+[Dd]ebug-x64/
+[Dd]ebug-x86/
+[Dd]ebug-AnyCPU/
+[Dd]ebug-x64/NetCoreApp/
+[Dd]ebug-x86/NetCoreApp/
+[Dd]ebug-AnyCPU/NetCoreApp/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer package
+*.vsix
+
+# Windows Installer directories
+.vs/
+
+# User-specific files
+.vscode/
+.idea/
+
+# User-specific files from Visual Studio for Mac
+.vscode/
+.idea/
+
+# User-specific JetBrains Rider config
+.idea/
+
+# User-specific VS Code config
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# .NET Core project files
+project.lock.json
+project.fragment.lock.json
+
+# .NET Core tools folder
+tools/
+
+# User-specific files
+.vs/
+
+# Node.js packages
+node_modules/
+
+# Generated files from dotnet build
+bin/
+obj/
+
+# Mono Auto Generated files
+mono/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
