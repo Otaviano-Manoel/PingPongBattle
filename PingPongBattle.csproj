@@ -8,18 +8,18 @@
   </PropertyGroup>
   <PropertyGroup>
     <ApplicationManifest>app.manifest</ApplicationManifest>
-    <ApplicationIcon>Icon.ico</ApplicationIcon>
+    <ApplicationIcon>Content/Textures/Icon.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
-    <None Remove="Icon.ico" />
-    <None Remove="Icon.bmp" />
+    <None Remove="Content/Textures/Icon.ico" />
+    <None Remove="Content/Textures/Icon.bmp" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Icon.ico">
-      <LogicalName>Icon.ico</LogicalName>
+    <EmbeddedResource Include="Content/Textures/Icon.ico">
+      <LogicalName>Textures/Icon.ico</LogicalName>
     </EmbeddedResource>
-    <EmbeddedResource Include="Icon.bmp">
-      <LogicalName>Icon.bmp</LogicalName>
+    <EmbeddedResource Include="Content/Textures/Icon.bmp">
+      <LogicalName>Textures/Icon.bmp</LogicalName>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
